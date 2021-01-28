@@ -6,3 +6,4 @@
 * CSS
 * Visual Studio Code
 
+<img src="https://github.com/IsabelaMarques07/curso-html5-dio/blob/main/video-curso-html5.gif">
